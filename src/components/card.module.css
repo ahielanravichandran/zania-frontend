@@ -1,0 +1,5 @@
+.card {
+  @apply relative isolate flex flex-col text-left p-2;
+  @apply rounded-lg min-w-52 cursor-pointer;
+  height: 360px;
+}
